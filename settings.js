@@ -17,8 +17,8 @@ global.APIKeys = {
 
 //AUTO FUNCTIONS 
 
-global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autobio = true  // auto bio system checking on Developing Leval
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -39,7 +39,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['94705346094'] //ur owner number
 global.ownername = "RUKSHAN" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
+global.socialm = "GitHub: Srukshan" //ur github or insta name
 global.location = "Sri Lanka, Pandulagama, Anuradhapura" //ur location
 
 //BOT COSTOMIZEDTATION
